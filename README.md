@@ -9,8 +9,7 @@
 
 * 🇪🇸/🇺🇸/🇮🇹 I love languages, so I'm improving my English and learning Italian.
 * 🤓 Learning new APIs, frameworks, libraries, and best practices.
-* 🌎 Finishing the adventure I started in 2020 of working and traveling from different parts of the world.
-* 🕵️‍♂️ I'm looking to contribute on open-source projects.
+* 🕵️‍♂️ I'm looking to contribute to open-source projects.
 * 🧪 I love creative code, UI/UX, I'm a design enthusiast, so I tend to play around in my [Codepen](https://codepen.io/HenryZarza/) with some stuff.
 * 👨‍💻 I'm currently learning Python and NodeJS.
 * 🎨 Painting mandalas.
