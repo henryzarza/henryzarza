@@ -1,20 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  I'm <strong>Henry</strong> a software engineer from Colombia 🇨🇴, with a strong passion for creative code, animations, UI/UX, logic problems, traveling, languages, reading, music, horror movies, animals, hiking, and swimming.
+  I'm <strong>Henry</strong> a software engineer from Colombia 🇨🇴 living in Sweden 🇸🇪, with a strong passion for creative code, animations, UI/UX, logic problems, traveling, languages, reading, music, horror movies, animals, hiking, and swimming.
 </p>
 
 
 ## 🌱 What am I doing?
 
-* 🇪🇸/🇺🇸/🇮🇹 I love languages, so I'm improving my English and learning Italian.
+* 🇪🇸/🇺🇸/🇮🇹 I love languages, so I'm improving my English, Italian, and learning Swedish 🇸🇪.
 * 🤓 Learning new APIs, frameworks, libraries, and best practices.
 * 🕵️‍♂️ I'm looking to contribute to open-source projects.
 * 🧪 I love creative code, UI/UX, I'm a design enthusiast, so I tend to play around in my [Codepen](https://codepen.io/HenryZarza/) with some stuff.
 * 👨‍💻 I'm currently learning Python and NodeJS.
 * 🎨 Painting mandalas.
 * 🧘‍♂️ Practicing yoga.
-* 👨‍🍳 I'm trying to study cooking as a hobby.
 
 
 ## 💬 Ask me about ...
