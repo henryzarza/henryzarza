@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  I'm <strong>Henry</strong> a software engineer from Colombia 🇨🇴 living in Sweden 🇸🇪, with a strong passion for creative code, animations, UI/UX, logic problems, traveling, languages, reading, music, horror movies, animals, hiking, and swimming.
+  I'm <strong>Henry</strong> a software engineer from Colombia 🇨🇴, with a strong passion for creative code, animations, UI/UX, logic problems, traveling, languages, reading, music, horror movies, animals, hiking, and swimming.
 </p>
 
 
